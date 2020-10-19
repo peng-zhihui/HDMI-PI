@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Main.SchDoc
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=LT6911C|SchDesignator=LT6911C|FileName=HDMI_To_MIPI_PHY.SchDoc|SymbolType=Normal|RawFileName=HDMI_To_MIPI_PHY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Audio|SchDesignator=U_Audio|FileName=Audio.SchDoc|SymbolType=Normal|RawFileName=Audio.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Connector|SchDesignator=U_Connector|FileName=Connector.SchDoc|SymbolType=Normal|RawFileName=Connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

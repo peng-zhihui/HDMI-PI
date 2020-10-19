@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Main.SchDoc
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=TC358870XBG|SchDesignator=TC358870XBG|FileName=HDMI_To_MIPI_PHY.SchDoc|SymbolType=Normal|RawFileName=HDMI_To_MIPI_PHY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_Connector|SchDesignator=U_Connector|FileName=Connector.SchDoc|SymbolType=Normal|RawFileName=Connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
