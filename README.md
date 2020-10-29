@@ -42,7 +42,7 @@
 
 厂家不开放软硬资料，连datasheet都没有，所以几乎无法个人开发。**但是**，万能的野生钢铁侠通过一些特殊手段，还是跟代理商拿到了一些资料，包括部分源码（核心lib封装好了我拿不到，只有上层API）。但是因为签了NDA保密协议，源码部分我不好分享出来，除了源码其他部分我都开源了，而大家DIY的话也不需要源码，我可以提供预编译的固件供大家下载，所以这个方案适合给直接复制项目的同学参考。
 
-![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20201019114643.jpg)
+![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20201029161245.png)
 
 ![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20201019114700.jpg)
 
