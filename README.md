@@ -28,7 +28,7 @@
 
 根据原厂的评估板我也设计了一个测试模块，电路已经开源在仓库。
 
-![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20201019113714.jpg)
+![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20201128180418.png)
 
 
 
