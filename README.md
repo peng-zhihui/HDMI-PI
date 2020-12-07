@@ -18,7 +18,7 @@
 
 他用Spartan-6 FPGA成功驱动了iPhone4的屏幕并接受HDMI的信号输入，感兴趣的可以参考。
 
-![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20201019113038.jpg)
+![](/4.Docs/images/1.jpg)
 
 因为我对FPGA不是很熟，所以我采用ASIC专用IC的方案来设计。
 
@@ -28,7 +28,7 @@
 
 根据原厂的评估板我也设计了一个测试模块，电路已经开源在仓库。
 
-![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20201019113714.jpg)
+![](/4.Docs/images/2.jpg)
 
 
 
@@ -42,13 +42,13 @@
 
 厂家不开放软硬资料，连datasheet都没有，所以几乎无法个人开发。**但是**，万能的野生钢铁侠通过一些特殊手段，还是跟代理商拿到了一些资料，包括部分源码（核心lib封装好了我拿不到，只有上层API）。但是因为签了NDA保密协议，源码部分我不好分享出来，除了源码其他部分我都开源了，而大家DIY的话也不需要源码，我可以提供预编译的固件供大家下载，所以这个方案适合给直接复制项目的同学参考。
 
-![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20201029161245.png)
 
-![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20201019114700.jpg)
+
+![](/4.Docs/images/3.jpg)![](/4.Docs/images/4.jpg)
 
 最终驱动的效果如下，以5.5寸的屏幕为例：
 
-![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20201019114712.jpg)
+![](/4.Docs/images/5.jpg)
 
 ## 总结
 
