@@ -31,8 +31,13 @@
 
 ![](/4.Docs/images/2.jpg)
 
-
 这个方案的软件我还没有写，感兴趣的同学可以参考文档做后续开发，**也欢迎有进展的同学提交代码到仓库~**
+
+> 目前东芝方案的固件代码已经由[ylj2000](https://github.com/ylj2000)基本实现了，器源码已经整合到本仓库，感谢[ylj2000](https://github.com/ylj2000)同学的开源代码~
+>
+> 大家可以去他的仓库具体了解：
+>
+> [ylj2000/HDMI_To_MIPI: A Hdmi to Mipi conversion module based on Toshiba TC358870 (github.com)](https://github.com/ylj2000/HDMI_To_MIPI)
 
 #### 龙讯方案
 

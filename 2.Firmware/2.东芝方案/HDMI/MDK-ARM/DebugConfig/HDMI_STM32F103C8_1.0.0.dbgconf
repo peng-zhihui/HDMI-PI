@@ -1,0 +1,36 @@
+// File: STM32F101_102_103_105_107.dbgconf
+// Version: 1.0.0
+// Note: refer to STM32F101xx STM32F102xx STM32F103xx STM32F105xx STM32F107xx Reference manual (RM0008)
+//                STM32F101xx STM32F102xx STM32F103xx STM32F105xx STM32F107xx datasheets
+
+// <<< Use Configuration Wizard in Context Menu >>>
+
+// <h> Debug MCU configuration register (DBGMCU_CR)
+//                                   <i> Reserved bits must be kept at reset value
+//   <o.30> DBG_TIM11_STOP           <i> TIM11 counter stopped when core is halted
+//   <o.29> DBG_TIM10_STOP           <i> TIM10 counter stopped when core is halted
+//   <o.28> DBG_TIM9_STOP            <i> TIM9 counter stopped when core is halted
+//   <o.27> DBG_TIM14_STOP           <i> TIM14 counter stopped when core is halted
+//   <o.26> DBG_TIM13_STOP           <i> TIM13 counter stopped when core is halted
+//   <o.25> DBG_TIM12_STOP           <i> TIM12 counter stopped when core is halted
+//   <o.21> DBG_CAN2_STOP            <i> Debug CAN2 stopped when core is halted
+//   <o.20> DBG_TIM7_STOP            <i> TIM7 counter stopped when core is halted
+//   <o.19> DBG_TIM6_STOP            <i> TIM6 counter stopped when core is halted
+//   <o.18> DBG_TIM5_STOP            <i> TIM5 counter stopped when core is halted
+//   <o.17> DBG_TIM8_STOP            <i> TIM8 counter stopped when core is halted
+//   <o.16> DBG_I2C2_SMBUS_TIMEOUT   <i> SMBUS timeout mode stopped when core is halted
+//   <o.15> DBG_I2C1_SMBUS_TIMEOUT   <i> SMBUS timeout mode stopped when core is halted
+//   <o.14> DBG_CAN1_STOP            <i> Debug CAN1 stopped when Core is halted
+//   <o.13> DBG_TIM4_STOP            <i> TIM4 counter stopped when core is halted
+//   <o.12> DBG_TIM3_STOP            <i> TIM3 counter stopped when core is halted
+//   <o.11> DBG_TIM2_STOP            <i> TIM2 counter stopped when core is halted
+//   <o.10> DBG_TIM1_STOP            <i> TIM1 counter stopped when core is halted
+//   <o.9>  DBG_WWDG_STOP            <i> Debug window watchdog stopped when core is halted
+//   <o.8>  DBG_IWDG_STOP            <i> Debug independent watchdog stopped when core is halted
+//   <o.2>  DBG_STANDBY              <i> Debug standby mode
+//   <o.1>  DBG_STOP                 <i> Debug stop mode
+//   <o.0>  DBG_SLEEP                <i> Debug sleep mode
+// </h>
+DbgMCU_CR = 0x00000007;
+
+// <<< end of configuration section >>>
