@@ -1,7 +1,6 @@
-## 文件说明
+## file description
 
-* MiniDisplay：这是我原版设计电路，硬件已经验证过但是固件代码还没来得及写
-* Converter-10.1：和上面的核心板配套的10.1寸屏转接板
-* MiniDisplay-ylj2000：这是由[ylj2000](https://github.com/ylj2000)基于我原版硬件方案修改的电路，将转接板改为了排针连接的形式，另外这个方案的固件代码也已经由[ylj2000](https://github.com/ylj2000)实现，目前适配了5.5寸的1080p屏幕
-* Converter_5_5：和上面的板子配套的转接板
-
+* Minidisplay: This is my original design circuit. The hardware has been verified but the firmware code has not had time to write
+* Converter-10.1: 10.1-inch screen transfer board with the core board above
+* Minidisplay-ylj2000: This is a circuit modified by [ylj2000] (https://github.com/ylj2000) based on my original hardware scheme, and the transition board is changed to the form of a needle connection. In addition, the firmware code of this solution alsoIt has been implemented by [ylj2000] (https://github.com/ylj2000), and it is currently suitable for 5.5 -inch 1080P screen
+* Converter_5_5: The rotary board supported with the above board
